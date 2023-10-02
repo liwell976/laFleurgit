@@ -1,0 +1,35 @@
+body{
+	background: rgb(196, 159, 188);
+	}
+::selection{
+	background-color : rgb(255, 192, 203);
+	}
+h1{
+	margin: 0 15 0px;	
+	}
+h2{
+	margin: 0 5 0px;
+	}
+hr{
+	height: 1px;
+	border: none;
+	background: rgb(0, 0, 0);
+	}
+#plantes {
+	margin: 0 15 0px;
+	}
+#menu {
+	position: fixed; 
+	margin-right: 70%;
+	}
+#trait {
+	width: 102.5%
+	}
+#page {
+	border-left: 1px solid #000;
+	margin-left: 11.2%;
+	}
+a{
+	text-decoration: none;
+	color: black;
+	}
